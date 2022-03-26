@@ -3,7 +3,7 @@ p5js => Rotative 'Freedom' Starfield
 
 A small p5.js Sketch
 + Dealing with a an humble Rotative Starfield
-+ Press Space to activate 'freedom' mode :)
++ Press Space to activate 'Freedom' mode :)
 + 2D Canvas [ Faster ] + Point() rendering [ Faster than Circle() ]
 + 30 FPS
 + Responsive : Resize & Fit on 4/3 to optimize available screen space
