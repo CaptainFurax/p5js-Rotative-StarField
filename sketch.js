@@ -7,6 +7,7 @@ function preload() { AtariST = loadFont('rsc/AtariST8x16SystemFont.ttf'); }
 //
 function setup()
 {
+  pixelDensity(1);
   angleMode(DEGREES);
   frameRate(30);
   //
